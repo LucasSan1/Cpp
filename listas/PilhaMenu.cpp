@@ -62,7 +62,6 @@ void destrutor() {
     cout << "A pilha foi destruída!\n";
 }
 
-// Função principal com menu
 int main() {
     int opcao, valor;
 
