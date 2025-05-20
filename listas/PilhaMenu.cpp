@@ -99,7 +99,7 @@ int main() {
                 cout << "Opção inválida.\n";
         }
 
-        // Aguarda o usuário pressionar ENTER (sem usar system("pause"))
+        // Aguarda o usuário pressionar ENTER
         cout << "Pressione ENTER para continuar...";
         cin.ignore();
         cin.get();
